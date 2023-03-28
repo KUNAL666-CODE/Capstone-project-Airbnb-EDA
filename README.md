@@ -7,4 +7,5 @@ Airbnb is an online platform where one can book accommodation online in various 
 Airbnb has been a revolutionary technology driven company providing travellers accomodation while travelling at their finger tips ,they can book any accomodation online and it also provides its customers various options to review their stay after they checkout and share their feedback on its app and website. Our aim is to evaluate the dataset provided and derive conclusion and try to identify various trends which would help to take better decisions in respect of expanding the business and learn about various security concerns if any.
 
 
-              ![airbnb](https://user-images.githubusercontent.com/127510355/227995608-4348c55c-5875-4c6b-ac35-499a47819c52.jpg)        
+               
+![airbnb 2](https://user-images.githubusercontent.com/127510355/228187933-01e5da15-1b03-44ca-934d-40f0322be58e.jpg)
