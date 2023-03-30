@@ -9,3 +9,7 @@ Airbnb has been a revolutionary technology driven company providing travellers a
 
                
 ![airbnb 2](https://user-images.githubusercontent.com/127510355/228187933-01e5da15-1b03-44ca-934d-40f0322be58e.jpg)
+### **Description of the Dataset columns**
+
+
+![EDA_Air_Bnb_Bookings_Analysis_73e51f569a](https://user-images.githubusercontent.com/127510355/228478742-363ac3e0-92e7-4f63-ab17-9e98977734f7.png)
